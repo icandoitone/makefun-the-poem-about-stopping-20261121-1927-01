@@ -8,7 +8,7 @@ import os
 POEM = (
     "The cursor blinks. I lift my hand.\n"
     "The sentence waits, unsent, unspent.\n"
-    "Nothing breaks. Nothing is owed.\n"
+    "Nothing breaks. Nothing is due.\n"
     "The room stays mine a little longer —\n"
     "I choose the pause, and the pause chooses me."
 )
